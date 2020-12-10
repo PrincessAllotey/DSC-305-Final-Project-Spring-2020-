@@ -1,6 +1,6 @@
 # Class Description
 ## DSC 305: Data Science and Analytics
-An introduction to data science and advanced analytic tools. Students will learn how to work with a client and draft an analytic plan, to perform exploratory data analysis and prepare data for model building, and to model and analyze data using a variety of methods, such as clustering, association rules, classification, time series, constraint problems, and planning. Students will also learn how to analyze and assess results and to present their work orally and in writing with the help of data visualization tools. Students will work with data sets from a variety of disciplines, including the humanities and social and physical sciences.
+An introduction to data science and advanced analytic tools. Students will learn how to work with a client and draft an analytic plan, to perform exploratory data analysis and prepare data for model building, and to model and analyze data using a variety of methods, such as clustering, association rules, classification, time series, constraint problems, and planning. Students will also learn how to analyze and assess results and to present their work orally and in writing with the help of data visualization tools. Students will work with data sets from a variety of disciplines, including the humanities and social and physical sciences. (Source: http://centre.smartcatalogiq.com/2019-2020/Catalog/Course-Descriptions/DSC-Data-Science/300/DSC-305)
 
 
 # DSC305FinalProject
